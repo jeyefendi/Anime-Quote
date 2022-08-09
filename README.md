@@ -1,3 +1,9 @@
+## Quote Generator powered by React.js with using Axios and Animechan API
+
+# Live: https://quote-anime.netlify.app/
+
+![Cover](cover.webp)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
