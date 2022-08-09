@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;700&display=swap');
+
+@font-face {
+  font-family: Kyoto;
+  src: url(./Kyoto.ttf);
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input,
+textarea,
+button,
+select {
+  font-family: 'Merriweather Sans', sans-serif;;
+  font-size: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button,
+input[type="submit"] {
+  display: inline-block;
+  box-shadow: none;
+  background-color: transparent;
+  background: none;
+  cursor: pointer;
+  border: none;
+}
+
+input:focus,
+input:active,
+button:focus,
+button:active {
+  outline: none;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+body {
+  font-family: "Merriweather Sans", sans-serif;
+  color: #fff;
+  background: url(../public/bg.webp);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Kyoto", serif;
+  color: #fff;
+}
