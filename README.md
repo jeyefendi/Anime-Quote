@@ -1,8 +1,8 @@
-# Anime Quote Generator powered by React.js with using Axios and Animechan API
-><b>React.js <br>Axios <br>API <br>SCSS</b>
+# Anime Quote Generator
+><b>React.js <br>Axios <br>Animechan API <br>SCSS</b>
 # Preview
-![Logo](./COVER.webp)
 ## Live: https://quote-anime.netlify.app/
+![Logo](./COVER.webp)
 
 # Getting Started with Create React App
 
