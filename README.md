@@ -1,7 +1,7 @@
 # Anime Quote Generator
 ><b>React.js <br>Axios <br>Animechan API <br>SCSS</b>
 # Preview
-https://quote-anime.netlify.app/
+https://quote-anime.netlify.app/<br>
 ![Logo](./COVER.webp)
 
 # Getting Started with Create React App
